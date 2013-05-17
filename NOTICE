@@ -1,0 +1,10 @@
+The following MIT Licensed software is used:
+
+* [Backbone.js](http://backbonejs.org/)
+* [Backbone-associations](https://github.com/dhruvaray/backbone-associations)
+* [IndexedDBShim](https://github.com/axemclion/IndexedDBShim)
+* [jQuery](http://jquery.com/)
+* [promiscuous](https://github.com/RubenVerborgh/promiscuous/)
+* [sift.js](https://github.com/crcn/sift.js)
+* [Underscore.js](http://underscorejs.org/)
+* [Zepto](http://zeptojs.com/)
