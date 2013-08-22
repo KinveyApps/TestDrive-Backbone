@@ -182,7 +182,7 @@ Summary:
    * backbone-1.0 [MIT] - framework for web application structure.
    * backbone-associations-0.5 [MIT] - used for Backbone.js integration with KinveyRefs.
    * jquery-2.0 [MIT] - dependency of Backbone.js.
-   * kinvey-1.0.4 [Apache-2.0] - used for data persistence.
+   * kinvey-1.0.5 [Apache-2.0] - used for data persistence.
    * underscore.js-1.5 [MIT] - dependency of Backbone.js.
    * zepto-1.0 [MIT] - dependency of Backbone.js.
 
